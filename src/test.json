@@ -1,0 +1,39 @@
+{
+  "templateInfo": {
+    "type": "A",
+    "sectionList": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "seatInfo": {
+    "list": {
+      "A": [
+        { "index": 0, "name": "선희빈", "status": "사용중", "part": "프론트엔드", "web": "", "page": "", "web": "", "page": "" },
+        { "index": 1, "name": "장이지", "status": "사용중", "part": "프론트엔드", "web": "", "page": "" },
+        { "index": 4, "name": "", "status": "공석", "part": "", "web": "", "page": "" },
+        { "index": 4, "name": "", "status": "공석", "part": "", "web": "", "page": "" },
+        { "index": 4, "name": "", "status": "공석", "part": "", "web": "", "page": "" },
+        { "index": 5, "name": "", "status": "공석", "part": "", "web": "", "page": "" }
+      ],
+      "B": [
+        { "index": 0, "name": "신애정", "status": "사용중", "part": "백엔드", "web": "", "page": "" },
+        { "index": 1, "name": "", "status": "공석", "part": "", "web": "", "page": "" }
+      ],
+      "C": [
+        { "index": 0, "name": "성태현", "status": "사용중", "part": "백엔드", "web": "", "page": "" },
+        { "index": 1, "name": "성태현", "status": "사용중", "part": "백엔드", "web": "", "page": "" },
+        { "index": 2, "name": "성태현", "status": "사용중", "part": "백엔드", "web": "", "page": "" },
+        { "index": 3, "name": "성태현", "status": "사용중", "part": "백엔드", "web": "", "page": "" },
+        { "index": 4, "name": "성태현", "status": "사용중", "part": "백엔드", "web": "", "page": "" },
+        { "index": 5, "name": "장이지", "status": "신규", "part": "디자인", "web": "", "page": "" }
+      ],
+      "D": [
+        { "index": 1, "name": "", "status": "공석", "part": "", "web": "", "page": "" },
+        { "index": 1, "name": "", "status": "공석", "part": "", "web": "", "page": "" }
+      ]
+    }
+  }
+}
